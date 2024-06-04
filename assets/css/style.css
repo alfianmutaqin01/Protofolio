@@ -189,6 +189,7 @@ a:hover {
 .box-shadow-full {
   padding: 3rem 1.25rem;
   position: relative;
+  border-radius: 15px;
   background-color: #fff;
   margin-bottom: 3rem;
   z-index: 2;
@@ -823,6 +824,7 @@ a:hover {
 .about-mf .box-shadow-full {
   padding-top: 4rem;
   padding-bottom: 4rem;
+  border-radius: 15px;
 }
 
 .about-mf .about-img {
@@ -940,6 +942,7 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  border-radius: 15px;
 }
 
 .work-box:hover img {
